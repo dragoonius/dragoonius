@@ -14,6 +14,10 @@
   
 
 - ⚡ Fun fact: I think {'s should always go on a new line  
+
+
+- 📖 Current reading: The House in the Cerulean Sea by TJ Klune
+
   
 
 <br/>  
