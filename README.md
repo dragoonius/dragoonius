@@ -1,4 +1,4 @@
-### <div align="center">I'm Joseph, an assistant professor at 🎓 Muhlenberg College 🏫</div>  
+### <div align="center">I'm Joseph, a lecturer at 🎓 Stevens Institute of Technology 🏫</div>  
   
 
 - 📫 How to reach me: joseph.helsing@gmail.com  
