@@ -4,7 +4,7 @@
 - 📫 How to reach me: joseph.helsing@gmail.com  
   
 
-- 🔭 I’m currently working on moving into industry  
+- 🔭 I’m currently working on learning how to use GitHub Classroom
   
 
 - 🌱 I’m currently training for a GCP certification and refreshing my ArcGIS knowledge  
